@@ -9,6 +9,7 @@
                   kernel,
                   stdlib,
                   crypto,
+                  inets,
                   mochiweb,
                   webmachine
                  ]},
