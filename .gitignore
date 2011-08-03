@@ -1,2 +1,6 @@
 deps/*
 *.beam
+demo/deps
+demo/ebin
+demo/priv/log
+*.swp
